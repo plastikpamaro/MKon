@@ -1,0 +1,6 @@
+Grau/Weiß = Leistungsstarke Pumpe :) 
+Rosa = Recheneinheit, CPU
+Rot  = Motorsteuerung Antriebsrollen für beide Motoren
+Gelb = Roboterarm Steuerung Saugen Arm
+Blau = Roboterarm Steuerung Säen Arm
+Cyan = Lufttank
