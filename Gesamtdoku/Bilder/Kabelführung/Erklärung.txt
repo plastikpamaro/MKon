@@ -1,0 +1,3 @@
+Die Drohne öffnet beim vorbei fahren die Öse durch herunterdrücken des Kontaktstößels (vll fällt dir nen besseres Wort ein). 
+Das Kabel wird konstruktiv in die Öse geführt. Wenn die Drohne vorbei gefahren ist verlässt sie den Stößel. Dieser wird durch Federkraft wieder hoch gestellt und 
+die Öse schließt.
